@@ -1,11 +1,7 @@
-.crop { /*Crops top left part of total image */
-    width: 200px;
-    height: 150px;
-    overflow: hidden;
-}
-
-.crop img { /*Resizes the entire image*/
-    width: 400px;
-    height: 300px;
-    margin: -75px 0 0 -100px;
+.crop { /*crops the div="crop" sections */
+    border: 2px solid;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
 }
