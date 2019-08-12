@@ -1,7 +1,8 @@
-.crop { /*crops the div="crop" sections */
-    border: 2px solid;
-    padding: 20px; 
-    width: 300px;
-    resize: both;
-    overflow: auto;
+.crop img { /*crops the div="crop" sections. have to use img*/
+    width: 20%;
+    height: 20%;
+}
+
+.portfoliotitle { /* div class names can only be 1 word*/
+    text-align: center;
 }
