@@ -1,8 +1,29 @@
 .crop img { /*crops the div="crop" sections. have to use img*/
     width: 20%;
     height: 20%;
+    text-align: center;
 }
 
 .portfoliotitle { /* div class names can only be 1 word*/
+    text-align: left; /*text-align only works on block elements*/
+    margin: 50px;
+}
+
+h2 {
     text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.header {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
