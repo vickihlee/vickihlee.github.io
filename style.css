@@ -8,7 +8,7 @@
     text-align: left; /*text-align only works on block elements*/
     margin: 50px;
 }
-
+/*
 h2 {
     text-align: center;
 }
@@ -20,10 +20,11 @@ h1 {
 h3 {
     text-align: center;
 }
-
+this gets priority even if it changes below*/
 .header {
     margin-top: 100px;
     margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 80px;
+    margin-right: 250px;
+    margin-left: 250px;
+    text-align: left;
 }
