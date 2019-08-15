@@ -1,7 +1,7 @@
 .crop img { /*crops the div="crop" sections. have to use img*/
-    width: 20%;
-    height: 20%;
-    text-align: center;
+    width: 25%;
+    height: 25%;
+    text-align: left;
 }
 
 .portfoliotitle { /* div class names can only be 1 word*/
