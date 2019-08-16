@@ -2,11 +2,13 @@
     width: 25%;
     height: 25%;
     text-align: left;
+    font-family: helvetica;
 }
 
 .portfoliotitle { /* div class names can only be 1 word*/
     text-align: left; /*text-align only works on block elements*/
     margin: 50px;
+    font-family: helvetica;
 }
 /*
 h2 {
@@ -27,4 +29,9 @@ this gets priority even if it changes below*/
     margin-right: 250px;
     margin-left: 250px;
     text-align: left;
+    font-family: helvetica;
+}
+
+footer {
+    font-family: helvetica;
 }
