@@ -7,7 +7,7 @@
 
 .portfoliotitle { /* div class names can only be 1 word*/
     text-align: left; /*text-align only works on block elements*/
-    margin: 50px;
+    margin-left: 90px;
     font-family: helvetica;
 }
 /*
